@@ -1,9 +1,8 @@
 MIEILA Eduard-Robert, 333CA
-Algoritmi Paraleli si Distribuiti
-Tema 1 - Paralelizarea unui algoritm genetic
+Paralelizarea unui algoritm genetic
 
-In rezolvarea acestei teme am plecat de la scheletul de cod primit.
-In primul rand, am plecat de la ideil folosite in laboratoare, si anume acelea
+In rezolvarea acestei probleme am plecat de la scheletul de cod primit.
+In primul rand, am plecat de la ideile folosite in laboratoare, si anume acelea
 de a distribui numarul de operatii in mod egal intre threaduri. Astfel, spre
 deosebire de implementarea seriala, toate for-urile din cod nu se vor mai
 executa de la inceputul vectorului de elemente genetice pana la final,

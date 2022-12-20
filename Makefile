@@ -1,4 +1,3 @@
-# APD - Tema 1
 # Octombrie 2021
 
 build:
