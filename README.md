@@ -11,7 +11,7 @@ Implementarea serială se găsește în folderul skel, iar soluția paralelă î
 
 ### Run
     ./knapsack_par <fișier_intrare> <numar_generații> <număr_threaduri>
-Pe prima linie a fișierului de intrare vom avea numărul de obiecte N pe care le avem la dispoziție și capacitatea rucsacului. Pe umrătoarele N linii avem câte 2 numere care reprezintă profitul și greutatea fiecărui obiect.
+Pe prima linie a fișierului de intrare vom avea numărul de obiecte N pe care le avem la dispoziție și capacitatea rucsacului. Pe următoarele N linii avem câte 2 numere care reprezintă profitul și greutatea fiecărui obiect.
 
 
 ## Informații suplimentare despre implementare
